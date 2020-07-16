@@ -1,2 +1,0 @@
-<?xml version='1.0' encoding='utf8'?>
-<annotation><folder>images1</folder><filename>1222020TO28220200001-3.jpg</filename><segmented>0</segmented><path>/home/dhanush/table detection/data/images1/1222020TO28220200001-3.jpg</path><size><width>2480</width><height>3509</height><depth>3</depth></size><object><name>bordered</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>42</xmin><ymin>79</ymin><xmax>2448</xmax><ymax>253</ymax></bndbox></object></annotation>
